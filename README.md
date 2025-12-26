@@ -1,8 +1,8 @@
-AI Whiteboard – Gesture-Based Drawing Application
+**AI Whiteboard – Gesture-Based Drawing Application**
 
 AI Whiteboard is a computer vision–based drawing tool that enables users to interact with a digital whiteboard using hand gestures detected via a webcam.
 
-Features: 
+**Features:** 
 Hand tracking powered by MediaPipe and OpenCV
 Gesture-based brush thickness control:
 Index finger : Medium stroke
