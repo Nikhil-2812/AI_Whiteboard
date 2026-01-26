@@ -46,7 +46,7 @@ This project demonstrates the practical use of AI, computer vision, and gesture 
 
 # Installation & Setup
 1️ Clone the Repository
-git clone https://github.com/kulukuri/AI_Whiteboard.git
+git clone (link of the project) 
 cd AI_Whiteboard
 
 2️  Create a Virtual Environment (Recommended)
